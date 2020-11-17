@@ -36,7 +36,7 @@ const life = [
 
 
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhandogan&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melihozkan&layout=compact)
 ![gif](https://i.hizliresim.com/F7zPvW.gif)
 > Melih Özkan ♥️
 
