@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hi 👋
+#### 🥳 My web address:
+> [melihozkan.com](http://melihozkan.com/)
 
-<!--
-**melihozkan/melihozkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🕒 My daily work:
+> ```.php```
 
-Here are some ideas to get you started:
+#### 🤓 My hobbies:
+> Play games, watch series, write code and design css animation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ☺️ My profession: 
+> Developer. 
+
+#### 🌱 Dreams: 
+> in the process of loading more.
+
+
+### 🌻 My life:
+```
+const life = [
+  
+  "Eat 🍴",
+  "Fun 🥳",
+  "Code 💻", 
+  "Sleep 😴", 
+  "Repeat 🔁"
+  
+  ];
+  
+  for(print in life) {
+    
+    console.log(life[print]);
+    
+  }
+```
+
+
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhandogan&layout=compact)
+![gif](https://i.hizliresim.com/F7zPvW.gif)
+> Melih Özkan ♥️
+
