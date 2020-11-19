@@ -3,7 +3,7 @@
 > [melihozkan.com](http://melihozkan.com/)
 
 #### 🕒 My daily work:
-> ```.php```
+> php , html
 
 #### 🤓 My hobbies:
 > Play games, watch series, write code and design css animation. 
