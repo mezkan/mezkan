@@ -2,13 +2,13 @@
 #### 🥳 My web address:
 >(<a href="http://melihozkan.epizy.com" rel="nofollow">melihozkan.epizy.com</a>)
 #### 🕒 My daily work:
-> php , html
+> .php , .html ,  .css .js
 
 #### 🤓 My hobbies:
 > Play games, watch series, write code and design css animation. 
 
 #### ☺️ My profession: 
-> Developer. 
+> Web Developer. 
 
 #### 🌱 Dreams: 
 > in the process of loading more.
