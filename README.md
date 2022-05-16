@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Melih "Mezkan" Ö.</h1>
 <h3 align="center">Full Stack Developer & Social Media Consultant</h3>
 
+- ⚡ @mezkan *** Sabaha kadar uğraştığım virgül hatasısın sen :)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mezkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mezkan" height="30" width="40" /></a>
