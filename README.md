@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melih "Mezkan" Ö.</h1>
 <h3 align="center">Full Stack Developer<br> & <br>Social Media Consultant</h3>
-
-- ⚡ @mezkan *** Sabaha kadar uğraştığım virgül hatasısın sen :)**
+<h6 align="center"> ⚡Sabaha kadar uğraştığım virgül hatasısın sen :)</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
